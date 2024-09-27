@@ -1,1 +1,3 @@
-![IMG-20240927-WA0002](https://github.com/user-attachments/assets/a34dc495-966a-4ea8-881a-677afcf04fe9)
+# Job Connect
+Online job application portal
+![image](https://github.com/user-attachments/assets/16732ec4-80d1-42d1-be44-0d6566052243)
